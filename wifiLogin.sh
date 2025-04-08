@@ -1,7 +1,7 @@
 #!/bin/bash
 
-USERNAME="tink"
-PSSWD="t1122"
+USERNAME=""
+PSSWD=""
 LOGIN_URL="http://172.16.16.16:8090/login.xml"
 
 curl "$LOGIN_URL" \
